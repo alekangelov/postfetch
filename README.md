@@ -1,9 +1,29 @@
+
 # preFetch
+
 ## a microlibrary for fetching stuff
+
+  
 
 Will explain more later. Maybe.
 
-preFetch.getData("url goes here", [{key/value pairs of parameters of get request}]);
-preFetch.postData("url goes here", {object you want to pass through});
-preFetch.putData("url goes here", {object you want to pass through});
-preFetch.deleteData("url goes here", {object you want to pass through});
+### Importing
+    import preFetch from 'prefetch';
+
+### GET requests
+    preFetch.getData("url goes here", [{key/value pairs of parameters of get request}]);
+
+### POST requests
+
+    preFetch.postData("url goes here", {object you want to pass through});
+    
+### PUT requests
+
+    preFetch.putData("url goes here", {object you want to pass through});
+
+### DELETE requests
+
+    preFetch.deleteData("url goes here", {object you want to pass through});
+
+
+
