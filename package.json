@@ -1,14 +1,14 @@
 {
-  "name": "prefetch",
+  "name": "postfetch",
   "version": "0.0.1",
   "description": "It's just so Fetch™",
-  "main": "preFetch.js",
+  "main": "postFetch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alekangelov/prefetch.git"
+    "url": "git+https://github.com/alekangelov/postFetch.git"
   },
   "keywords": [
     "fetch",
@@ -22,7 +22,7 @@
   "author": "Alek Angelov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alekangelov/prefetch/issues"
+    "url": "https://github.com/alekangelov/postfetch/issues"
   },
-  "homepage": "https://github.com/alekangelov/prefetch#readme"
+  "homepage": "https://github.com/alekangelov/postfetch#readme"
 }
