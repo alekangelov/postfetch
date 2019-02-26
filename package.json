@@ -1,6 +1,6 @@
 {
   "name": "postfetch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "It's just so Fetch™",
   "main": "postFetch.js",
   "scripts": {
